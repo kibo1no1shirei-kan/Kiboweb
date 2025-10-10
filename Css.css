@@ -1,0 +1,12 @@
+    body {
+    background: aquamarine;     /* red, blue, yellow, etc */
+    color: aliceblue;             /* red, blue, yellow, etc */
+    font-size: 20px;        /* 0px - 100px and beyond */
+    font-weight: lighter;   /* lighter, normal, bold  */
+    text-align: left;      /* left, center or right  */ 
+    margin-top: 5px;        /* From 0px and upwards   */
+}
+
+
+
+
