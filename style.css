@@ -4,9 +4,17 @@
     font-size: 20px;        /* 0px - 100px and beyond */
     font-weight: lighter;   /* lighter, normal, bold  */
     text-align: left;      /* left, center or right  */ 
-    margin-top: 5px;        /* From 0px and upwards   */
+    margin-top: 5px;   
+    margin: 0;
+    padding: 0;    /* From 0px and upwards   */
 }
-
+.top-left-image{
+    position: absolute;
+    top: 0;
+    left: 0;    
+    width 150px;
+    height: auto;
+}
 
 
 
