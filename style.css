@@ -6,7 +6,14 @@
     text-align: left;      /* left, center or right  */ 
     margin-top: 5px;   
     margin: 0;
-    padding: 0;    /* From 0px and upwards   */
+    padding: 0; 
+    background-image: url("ARANDOMIMG.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    min-height: 100vh;
+    margin: 0;  /* From 0px and upwards   */
 }
 .top-left-image{
     position: absolute;
