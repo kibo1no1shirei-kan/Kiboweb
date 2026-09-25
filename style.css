@@ -1,5 +1,5 @@
     body {
-    background: aquamarine;     /* red, blue, yellow, etc */
+    background: hsl(233, 89%, 48%);     /* red, blue, yellow, etc */
     color: aliceblue;             /* red, blue, yellow, etc */
     font-size: 20px;        /* 0px - 100px and beyond */
     font-weight: lighter;   /* lighter, normal, bold  */
