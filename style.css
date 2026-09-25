@@ -7,7 +7,7 @@
     margin-top: 5px;   
     margin: 0;
     padding: 0; 
-   
+    background-image: url("background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -19,11 +19,15 @@
     position: absolute;
     top: 0;
     left: 0;    
-    width 150px;
+    width: 150px;
     height: auto;
 }
 .container {
    position: relative;
 }
 
-
+img {
+    width:300px;
+    height:auto;
+    
+}
